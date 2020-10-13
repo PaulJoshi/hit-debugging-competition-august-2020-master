@@ -1,3 +1,5 @@
+Note for the curious: I won Second Place here😁
+
 # hit-debugging-competition-august-2020
 Hello. Greetings from the CSI RSET SB!
 Thank you for your interest in HIT, a code debugging competition.
